@@ -1,3 +1,6 @@
 /Debug
 .vs
 /ElliGen_CMD_Exec/Debug
+/x64
+/ElliGen_CMD_Exec/x64
+/ElliGen_Core/x64
